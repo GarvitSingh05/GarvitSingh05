@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Garvit Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to contribute to open source projects
 - 📫 Reach me on Twitter : @GarvitSingh05
 
 <!---
