@@ -7,8 +7,8 @@ I'm **Garvit Singh**, an Information Technology Sophomore.
 I love building cool stuff with code and I'm constantly learning and exploring new technologies. Here are a few things you should know about me:
 
 - 🌱 I'm currently working on projects using Java, Python and JavaScript.
-- 💬 You can ask me doubts about any of these languages
-- 📫 You can reach me at [Garvit](sgarvit22@gmail.com)
+- 💬 You can ask me doubts about any of these languages.
+- 📫 You can reach out to me on my [Email](sgarvit22@gmail.com).
 
 ## Connect with Me
 
