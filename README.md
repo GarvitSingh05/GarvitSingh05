@@ -5,7 +5,7 @@
 
 💼 Over the past 1.5 years, I have focused on developing my skills in Computer Science. My passion lies in building multiple income streams and expanding my knowledge across diverse fields.
 
-💻 Computer Science Skills
+💻 **Computer Science Skills**
 
 • Proficient in Linux. Currently using Manjaro Linux, and comfortable working with most linux terminal commands.
 
@@ -29,7 +29,7 @@
 
 • You can ask me doubts or queries from any of these tech stacks.
 
-📚 Learning in Public
+📚 **Learning in Public**
 
 • Actively engaged and completed my first 100 days of code challenge on Twitter and documented my learning journey. Follow me [here](bit.ly/3qMmWZI).
 
@@ -37,7 +37,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="garvitsingh05" /> </p>
 
-💡 Additional Skills Explored
+💡 **Additional Skills Explored**
 
 • UI/UX Basics, Web3.0, NFTs, Markdown and more.
 
@@ -49,7 +49,7 @@ Feel free to connect with me if you share similar interests or if you have any e
 
 Let's collaborate and make a positive impact together!
 
-## Tech Stacks and Languages
+## Tech Stacks & Languages
 
 Here are some of the tech stacks and programming languages I work with:
 
@@ -92,4 +92,4 @@ Let's connect and collaborate on exciting projects! You can find me on:
 
 Feel free to explore my repositories, contribute to projects, or reach out to collaborate on exciting ventures. Let's build something great together!
 
-Happy coding! 👨‍💻🚀
+Happy Coding! 👨‍💻🚀
