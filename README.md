@@ -71,7 +71,6 @@ Here are some of the tech stacks and programming languages I work with:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitsingh05&show_icons=true&locale=en" alt="garvitsingh05" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvitsingh05&show_icons=true&locale=en&layout=compact" alt="garvitsingh05" /></p>  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitsingh05&" alt="garvitsingh05" /></p>
 
 ## Connect with Me
