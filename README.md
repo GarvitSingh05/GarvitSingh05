@@ -40,7 +40,7 @@
 • I write articles on Hashnode on computer science topics where I teach people everything I've learnt through my writings. Just click on this Hashnode logo, you'll land up on my profile and explore some really informative content!
 
 <p align="left">
-<a href="https://hashnode.com/@garvit0501" target="blank"><img align="center" src="https://i.imgur.com/xj703Dx.png" alt="Hashnode_Blog" height="30" width="30" /></a>
+<a href="https://hashnode.com/@garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/xj703Dx.png" alt="Hashnode_Blog" height="30" width="30" /></a>
 </p>
 
 
@@ -93,9 +93,9 @@ Let's connect and collaborate on exciting projects! You can find me on these pla
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
-<a href="https://twitter.com/garvit0501" target="blank"><img align="center" src="https://i.imgur.com/dqyPTCI.png" alt="Twitter" height="30" width="42" /></a>
-<a href="https://www.linkedin.com/in/garvit-singh05/" target="blank"><img align="center" src="https://i.imgur.com/WiGDPp7.png" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://instagram.com/garvit0501" target="blank"><img align="center" src="https://i.imgur.com/DYFSZbs.png)" alt="Instagram" height="30" width="30" /></a>
+<a href="https://twitter.com/garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/dqyPTCI.png" alt="Twitter" height="30" width="42" /></a>
+<a href="https://www.linkedin.com/in/garvit-singh05/" target="_blank"><img align="center" src="https://i.imgur.com/WiGDPp7.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://instagram.com/garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/DYFSZbs.png)" alt="Instagram" height="30" width="30" /></a>
 </p>
 
 I love building cool stuff with code and I'm constantly learning and exploring new technologies.
