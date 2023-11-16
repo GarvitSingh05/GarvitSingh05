@@ -40,7 +40,7 @@
 • I frequently write articles on Hashnode on computer science topics where I teach people everything I've learnt. You can follow me there for some really informative content!
 
 <p align="left">
-<a href="https://hashnode.com/@garvit0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@garvit0501" height="30" width="40" /></a>
+<a href="https://hashnode.com/@garvit0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="My Hashnode Blog" height="30" width="40" /></a>
 </p>
 
 💡 **Some Additional Skills Explored By Me**
