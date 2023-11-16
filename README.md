@@ -37,11 +37,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="garvitsingh05" /> </p>
 
-• I frequently write articles on Hashnode on computer science topics where I teach people everything I've learnt. You can follow me there for some really informative content! Just click on this Hashnode logo and you'll land up on my profile.
+• I write articles on Hashnode on computer science topics where I teach people everything I've learnt through my writings. Just click on this Hashnode logo, you'll land up on my profile and explore some really informative content!
 
 <p align="left">
 <a href="https://hashnode.com/@garvit0501" target="blank"><img align="center" src="https://i.imgur.com/xj703Dx.png" alt="Hashnode_Blog" height="30" width="30" /></a>
 </p>
+
 
 💡 **Some Additional Skills Explored By Me**
 
@@ -53,6 +54,7 @@
 • Web3.0  
 • NFTs  
 • Markdown  
+
 
 ## My Tech Stacks & Languages
 
@@ -77,6 +79,7 @@ Here are some of the tech stacks and programming languages I work with
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvitsingh05&show_icons=true&locale=en&layout=compact" alt="garvitsingh05" /></p>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitsingh05&" alt="garvitsingh05" /></p>
+
 
 ## Connect With Me
 
