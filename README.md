@@ -60,7 +60,7 @@
 
 Here are some of the tech stacks and programming languages I work with
 
-• ♨️ Java - Object-Oriented Programming & Data Structures & Algorithms  
+• ♨️ Java - OOP & DSA  
 • 🐍 Python - Scripting, Automation & Mini Projects  
 • 💻 C Language  
 • 🕸 MERN Stack Web Development  
