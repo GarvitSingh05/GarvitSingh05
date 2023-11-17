@@ -9,7 +9,7 @@
 
 • Proficient in Linux and comfortable working with most Linux commands.
 
-• Experienced in GitHub for version control.
+• Experienced in Git & GitHub for version control.
 
 • Well-versed in Computer Networking Fundamentals.
 
