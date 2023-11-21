@@ -91,7 +91,6 @@ Let's connect and collaborate on exciting projects! You can find me on these pla
 • [Instagram](https://www.instagram.com/garvit0501)  
 • [Hashnode](https://hashnode.com/@garvit0501)  
 
-<h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://twitter.com/garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/dqyPTCI.png" alt="Twitter" height="30" width="42" /></a>
 <a href="https://www.linkedin.com/in/garvit-singh05/" target="_blank"><img align="center" src="https://i.imgur.com/WiGDPp7.png" alt="LinkedIn" height="30" width="30" /></a>
@@ -100,7 +99,7 @@ Let's connect and collaborate on exciting projects! You can find me on these pla
 
 I love building cool stuff with code and I'm constantly learning and exploring new technologies.
 
-Feel free to explore my repositories, contribute to projects, or reach out to collaborate on exciting ventures. 
+Feel free to explore my repositories, contribute to projects, or reach out to collaborate on exciting ventures.
 
 Let's collaborate to make a positive impact and build something great together!
 
