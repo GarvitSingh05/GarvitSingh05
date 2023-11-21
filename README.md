@@ -82,8 +82,7 @@ Here are some of the tech stacks and programming languages I work with
 
 
 ## Connect With Me
-
-Let's connect and collaborate on exciting projects! You can find me on these platforms
+You can find me on these platforms
 
 • [GitHub](https://github.com/GarvitSingh05)  
 • [LinkedIn](https://www.linkedin.com/in/garvit-singh05/)  
