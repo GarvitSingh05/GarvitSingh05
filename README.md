@@ -37,7 +37,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitsingh05&label=Profile%20views&color=0e75b6&style=flat" alt="garvitsingh05" /> </p>
 
-• I write articles on Hashnode on computer science topics where I teach people everything I've learnt through my writings. Just click on this Hashnode logo, you'll land up on my profile and explore some really informative content!
+• I write articles on Hashnode about everything I learn in computer science. Just click on this Hashnode logo, you'll land up on my profile and explore some really informative content!
 <p align="left">
 <a href="https://hashnode.com/@garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/xj703Dx.png" alt="Hashnode_Blog" height="30" width="30" /></a>
 </p>
