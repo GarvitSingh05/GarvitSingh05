@@ -60,7 +60,7 @@
 Here are some of the tech stacks and programming languages I am exploring
 
 • ♨️ Java - OOP & DSA  
-• ♨️ Full Stack Development in Java using Spring Framework and JavaFX.
+• ♨️ Full Stack Development in Java using Spring Framework and JavaFX.  
 • 🐍 Python - Scripting, Automation & Mini Projects  
 • 💻 C Language  
 • 🚀 CyberWarfare & Hacking  
