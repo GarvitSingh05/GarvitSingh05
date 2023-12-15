@@ -98,14 +98,12 @@ You can find me on these platforms
 
 • [GitHub](https://github.com/GarvitSingh05)  
 • [LinkedIn](https://www.linkedin.com/in/garvit-singh05/)  
-• [Twitter](https://twitter.com/Garvit0501)  
-• [Instagram](https://www.instagram.com/garvit0501)  
+• [Twitter](https://twitter.com/Garvit0501)    
 • [Hashnode](https://hashnode.com/@garvit0501)  
 
 <p align="left">
 <a href="https://twitter.com/garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/dqyPTCI.png" alt="Twitter" height="30" width="42" /></a>
 <a href="https://www.linkedin.com/in/garvit-singh05/" target="_blank"><img align="center" src="https://i.imgur.com/WiGDPp7.png" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://instagram.com/garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/DYFSZbs.png)" alt="Instagram" height="30" width="30" /></a>
 <a href="https://hashnode.com/@garvit0501" target="_blank"><img align="center" src="https://i.imgur.com/xj703Dx.png" alt="Hashnode_Blog" height="30" width="30" /></a>
 </p>
 
