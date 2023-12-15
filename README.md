@@ -55,7 +55,9 @@
 • Virtualization  
 • Operating Systems  
 
-## My Tech Stacks & Languages
+------------------------------
+**My Tech Stacks & Languages**
+------------------------------
 Here are some of the tech stacks and programming languages I am exploring
 
 • ♨️ Java - OOP & DSA  
@@ -81,17 +83,18 @@ Here are some of the tech stacks and programming languages I am exploring
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-
-## My GitHub Statistics
-
+--------------------------
+**My GitHub Statistics**
+--------------------------
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitsingh05&show_icons=true&locale=en" alt="garvitsingh05" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvitsingh05&show_icons=true&locale=en&layout=compact" alt="garvitsingh05" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvitsingh05&" alt="garvitsingh05" /></p>
 
-
-## Connect With Me
+--------------------
+**Connect With Me**
+--------------------
 You can find me on these platforms
 
 • [GitHub](https://github.com/GarvitSingh05)  
