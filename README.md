@@ -53,6 +53,8 @@
 • Cloud Computing  
 • Distributed & Parallel Computing  
 • Virtualization  
+• Operating Systems  
+• Software Testing  
 
 ------------------------------
 **My Tech Stacks & Languages**
