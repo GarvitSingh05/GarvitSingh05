@@ -25,13 +25,15 @@
 ------------------------------------
 **Currently Learning These Skills** 👨‍💻  
 ------------------------------------
-• Full Stack Development in Java using Spring Framework and JavaFX.  
+• MERN Stack Web Development.  
 
 • Data Structures & Algorithms using Java.  
 
-• Cyber Warfare & Ethical Hacking.  
+• Cyber Warfare, Ethical Hacking and Cryptography.  
 
 • System Design and how scalable and reliable software solutions are crafted.  
+
+• DevOps - Learning to automate CI/CD Pipelines using tools like Jenkins.  
 
 ---------------------------------------
 **Endeavours For Learning in Public** 📚  
@@ -52,9 +54,11 @@
 --------------------------------------------
 • Cloud Computing  
 • Distributed & Parallel Computing  
+• Real Time Systems  
 • Virtualization  
 • Operating Systems  
 • Software Testing  
+• DevOps - Linux, Git, Docker, Kubernetes and more  
 
 ------------------------------
 **My Tech Stacks & Languages**
@@ -62,7 +66,7 @@
 Here are some of the tech stacks and programming languages I am exploring
 
 • ♨️ Java - OOP & DSA  
-• ♨️ Full Stack Development in Java using Spring Framework and JavaFX.  
+• 🕸️ MERN Stack Web Development  
 • 🐍 Python - Scripting, Automation & Mini Projects  
 • 💻 C Language  
 • 🚀 CyberWarfare & Hacking  
@@ -70,6 +74,7 @@ Here are some of the tech stacks and programming languages I am exploring
 • 🐧 Linux & Bash Scripting  
 • 🔧 Git & GitHub  
 • 🌐 Computer Networking  
+• 🛠️ DevOps  
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
