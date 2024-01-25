@@ -72,14 +72,23 @@
 Here are some of the tech stacks and programming languages I am exploring
 
 • ♨️ Java - OOP & DSA  
+
 • 🕸️ MERN Stack Web Development  
+
 • 🐍 Python - Scripting, Automation & Mini Projects  
+
 • 💻 C Language  
+
 • 🚀 CyberWarfare & Hacking  
+
 • 🤖 System Design  
+
 • 🐧 Linux & Bash Scripting  
+
 • 🔧 Git & GitHub  
+
 • 🌐 Computer Networking  
+
 • 🛠️ DevOps  
 
 <h3 align="left">Languages and Tools</h3>
