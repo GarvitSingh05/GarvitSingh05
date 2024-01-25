@@ -53,11 +53,17 @@
 **Some Additional Skills Explored By Me** 💡  
 --------------------------------------------
 • Cloud Computing  
+
 • Distributed & Parallel Computing  
+
 • Real Time Systems  
+
 • Virtualization  
+
 • Operating Systems  
+
 • Software Testing  
+
 • DevOps - Linux, Git, Docker, Kubernetes and more  
 
 ------------------------------
