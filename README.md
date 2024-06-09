@@ -33,7 +33,7 @@
 
 • System Design and how scalable and reliable software solutions are crafted.  
 
-• DevOps - Learning to automate CI/CD Pipelines using tools like Jenkins.  
+• DevOps  
 
 ---------------------------------------
 **Endeavours For Learning in Public** 📚  
@@ -63,8 +63,6 @@
 • Operating Systems  
 
 • Software Testing  
-
-• DevOps - Linux, Git, Docker, Kubernetes and more  
 
 ------------------------------
 **My Tech Stacks & Languages**
