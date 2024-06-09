@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit Singh</h1>
-<h3 align="center">an Information Technology Sophomore from India</h3>
+<h3 align="center">an Information Technology Undergraduate from India</h3>
 
 ## Get To Know Me
 
