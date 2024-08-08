@@ -33,7 +33,7 @@
 
 • System Design and how scalable and reliable software solutions are crafted.  
 
-• DevOps  
+• DevOps.  
 
 ---------------------------------------
 **Endeavours For Learning in Public** 📚  
@@ -52,13 +52,9 @@
 --------------------------------------------
 **Some Additional Skills Explored By Me** 💡  
 --------------------------------------------
-• Cloud Computing  
+• Cloud Computing & Virtualization 
 
 • Distributed & Parallel Computing  
-
-• Real Time Systems  
-
-• Virtualization  
 
 • Operating Systems  
 
