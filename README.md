@@ -25,9 +25,7 @@
 ------------------------------------
 **Currently Learning These Skills** 👨‍💻  
 ------------------------------------
-• MERN Stack Web Development.  
-
-• Data Structures & Algorithms using Java.  
+ • Data Structures & Algorithms using Java.  
 
 • Cyber Warfare, Ethical Hacking and Cryptography.  
 
@@ -66,8 +64,6 @@
 Here are some of the tech stacks and programming languages I am exploring
 
 • ♨️ Java - OOP & DSA  
-
-• 🕸️ MERN Stack Web Development  
 
 • 🐍 Python - Scripting, Automation & Mini Projects  
 
